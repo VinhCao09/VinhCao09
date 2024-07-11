@@ -1,6 +1,20 @@
 # 💫About Me :
-Hello 👋
-I am Vinh. I'm studying HCMC University of Technology and Education
+Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
+
+**Major:** Electronics and Telecommunication
+
+**Skill:** 
+
+*- Microcontroller:* ESP32/8266 - ARDUINO - PIC - Raspberry Pi - PLC Rockwell Allen Bradley
+
+*- Programming languages:* C/C++/HTML/CSS/PHP/SQL and
+related Frameworks (Bootstrap)
+
+*-Communication Protocols:* SPI, I2C, UART, CAN
+
+*-Data Trasmissions:* HTTP, TCP/IP, MQTT
+
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xZmy6Zd8jQ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vcao.vn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/c_vvinh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cao-van-vinh09/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vinhcaodatabase) 
