@@ -10,7 +10,7 @@ Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
 *- Programming languages:* C/C++/HTML/CSS/PHP/SQL and
 related Frameworks (Bootstrap)
 
-*- Communication Protocols:* SPI, I2C, UART, CAN
+*- Communication Protocols:* SPI, I2C, UART, CAN, MODBUS
 
 *- Data Trasmissions:* HTTP, TCP/IP, MQTT
 
